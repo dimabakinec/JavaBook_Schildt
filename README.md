@@ -1,1 +1,1 @@
-# JavaBook_Schildt
+# Java for beginners by G. Schildt
